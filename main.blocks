@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="G{UA@igge4$Jrt:v!~2%" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id=",G!ofaZpWa!c4EBv%}/;"><field name="i">IconNames.Duck</field><next><block type="device_pause" id="isJljeO_=/x9+?Lvx?hK"><value name="pause"><shadow type="timePicker" id="@b[50JX7auv_AZy(|Vzh"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="k:V}w(7=xaon]BQ.Jv$$"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="G{UA@igge4$Jrt:v!~2%" x="0" y="0"/><block type="device_button_event" id="tXSBHn[a#UedN9v(uC9h" x="544" y="169"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id=",G!ofaZpWa!c4EBv%}/;"><field name="i">IconNames.Duck</field><next><block type="device_pause" id="isJljeO_=/x9+?Lvx?hK"><value name="pause"><shadow type="timePicker" id="@b[50JX7auv_AZy(|Vzh"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="k:V}w(7=xaon]BQ.Jv$$"><field name="LEDS">`
         . . . . . 
         . # # . . 
         # # # . . 

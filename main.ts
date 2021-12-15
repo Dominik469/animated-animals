@@ -1,4 +1,4 @@
-basic.forever(function () {
+input.onButtonPressed(Button.A, function () {
     basic.showIcon(IconNames.Duck)
     basic.pause(500)
     basic.showLeds(`
@@ -9,4 +9,7 @@ basic.forever(function () {
         . # # # .
         `)
     basic.pause(500)
+})
+basic.forever(function () {
+	
 })
